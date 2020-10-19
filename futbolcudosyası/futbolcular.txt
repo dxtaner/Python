@@ -1,0 +1,9 @@
+Fernando Muslera,Galatasaray
+Atiba Hutchinson,Beşiktaş
+Simon Kjaer,Fenerbahçe
+Alex,Fenerbahçe
+Volkan,Fenerbahçe
+Sabri,Galatasaray
+Bobo,Beşiktaş
+Caner Erkin,Beşiktaş
+Arda, Galatasaray
