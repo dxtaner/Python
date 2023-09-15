@@ -1,0 +1,4 @@
+Bu bir ornek metin dosyasidır.
+Her satir farkli bir veriyi temsil edebilir.
+Bu satir islenecek veriyi icerir.
+Ve bu da bir baska veri satiridir.
