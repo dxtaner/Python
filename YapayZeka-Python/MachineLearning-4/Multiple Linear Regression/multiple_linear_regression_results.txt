@@ -1,0 +1,6 @@
+Kesiþim Noktasý (Intercept): 10376.63
+Koefisiyentler (b1, b2): 1525.50
+
+Tahminler:
+Örnek 1 - Girdi: [10 35], Tahmin Edilen Maaþ: 11046.36
+Örnek 2 - Girdi: [ 5 35], Tahmin Edilen Maaþ: 3418.85
