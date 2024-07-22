@@ -1,0 +1,14 @@
+k=1: Accuracy=0.92
+k=2: Accuracy=0.89
+k=3: Accuracy=0.92
+k=4: Accuracy=0.93
+k=5: Accuracy=0.93
+k=6: Accuracy=0.92
+k=7: Accuracy=0.94
+k=8: Accuracy=0.93
+k=9: Accuracy=0.93
+k=10: Accuracy=0.93
+k=11: Accuracy=0.94
+k=12: Accuracy=0.93
+k=13: Accuracy=0.93
+k=14: Accuracy=0.93
