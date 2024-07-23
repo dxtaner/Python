@@ -1,0 +1,3 @@
+Polynomial Regression Coefficients:
+Intercept (b0): 190.71
+Coefficients (b1, b2): 0.00, 0.26, -0.00
